@@ -21,7 +21,12 @@ So, the initial part is done. Isn't it easy?
 
 ## Novice data structure
 int --> interger (-2^32<=0<=2^32-1)
+
 long long --> longer interger 
+
 double --> decimal
+
 char --> 
+
 string --> 
+
