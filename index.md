@@ -26,7 +26,7 @@ long long --> longer interger
 
 double --> decimal
 
-char --> 
+char --> character
 
-string --> 
+string --> lots of character (lol)
 
